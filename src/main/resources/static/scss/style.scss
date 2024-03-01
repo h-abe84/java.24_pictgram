@@ -181,3 +181,19 @@ nav.navbar {
 		}
 	}
 }
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	margin-bottom: 180px;
+}
+
+.footer {
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	padding: 10px 0;
+}
