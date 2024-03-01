@@ -129,4 +129,17 @@ nav.navbar {
     .topics-index-wrapper main .comments ul li {
       list-style: none; }
 
+html {
+  position: relative;
+  min-height: 100%; }
+
+body {
+  margin-bottom: 180px; }
+
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 180px;
+  padding: 10px 0; }
+
 /*# sourceMappingURL=style.css.map */
